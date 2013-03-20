@@ -1,0 +1,91 @@
+@charset "utf-8";
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image:url('img/bg.jpg');
+	background-attachment: fixed;
+	background-color: #595959;
+
+	font-family: Verdana, Geneva, sans-serif;	
+	font-size: 16px;	
+	
+	color: #cccccc;
+}
+
+h3 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	color: #000;
+}
+
+a:link, a:visited, a:active {
+	text-decoration: none;
+	
+	color: #cccccc;
+}
+
+a:hover {
+	text-decoration: none;
+	
+	color: #dbdbdb;
+}
+
+#main {
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	background-color: #202020;
+	
+	width: 900px;	
+}
+
+#barra_preta {
+	padding: 5px 0px 10px 0px;
+
+	text-align:center;
+	
+	font-weight: bold;
+
+	background-color: #000;
+	
+	height: 30px;	
+}
+
+#barra_sarabatana {
+	padding-right: 10px;
+
+	background-color: #000;
+	
+	background-image:url('img/escrito_sem_fundo.png');
+	background-repeat: no-repeat;
+	
+	height: 58px;
+	
+	text-align: right;
+}
+
+#lateraldireita {
+	float: right;
+	
+	background-image:url('img/mcdiafeliz2012.jpg');
+	background-repeat: no-repeat;
+	
+	height: 600px;
+	width: 600px;
+	margin-left: 350px; 
+	position: absolute;
+}
+
+#conteudo {
+	padding: 30px 10px 10px 10px;
+	
+	font-size: 10pt;	
+}
+
+.player_sound {
+
+	width: 280px;
+}

@@ -1,0 +1,21 @@
+dns:
+ns1.hostbarato.com
+ns2.hostbarato.com
+id tecnico: hoinf2
+
+# 4 PAINEL CONTROL http://www.hostbarato.com/cpanel
+# 4.1 login: hb34382
+# 4.2 senha: k34382
+#
+# 5 FTP CONTROL ftp.hostbarato.com
+# 5.1 login: hb34382
+# 5.2 senha: k34382
+# 6 WEBMAIL CONTROL http://www.hostbarato.com/webmail
+# 7 POP ENTRADA mail.hostbarato.com
+# 8 SMTP SAIDA mail.hostbarato.com
+# 8.1 O login do email sera sempre ex.:
+# 8.2 o nome nomedoemail@endereco.com
+# 8.3 o nome do email voce cria no painel.
+# 9 Select SMTP Fazer logon nao criptografado
+# 10 Select SMTP Meu servidor requer autenticacao
+###################################################################
